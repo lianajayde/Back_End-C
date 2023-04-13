@@ -6,8 +6,8 @@ E-Commerce is the largest sector of the elctronics industry, Back_End C was buil
 -npm i<br>
 -npm i dotenv<br>
 -npm i sequelize<br>
--npm install --save mysql2
-<br>
+-npm install --save mysql2<br>
+## Installation instructions
 *In order to use this appliction you must open your terminal and type the following commands..*
 <br>
 -mysql -u root -p<br>
