@@ -1,9 +1,9 @@
 ## Back_End C
 ## Details
-E-Commerce is the largest sector of the elctronics industry, Back_End C was built for e-commerce management to be able to create, update, and delete data in their database.
+E-Commerce is the largest sector of the electronics industry, Back_End C was built for e-commerce management to be able to create, update, and delete data in their database.
 <br>
 ## Installation Instructions
-*In order to run this application, you must first install..*<br>
+*In order to run this application, you must first install these through your terminal..*<br>
 -npm i<br>
 -npm i dotenv<br>
 -npm i sequelize<br>
