@@ -3,10 +3,10 @@
 E-Commerce is the largest sector of the elctronics industry, Back_End C was built for a e-commerce management to create, update, and delete data in their database.
 <br><br>
 *In order to run this application, you must first install..*<br>
-npm i<br>
-npm i dotenv<br>
-npm i sequelize<br>
-npm install --save mysql2
+-npm i<br>
+-npm i dotenv<br>
+-npm i sequelize<br>
+-npm install --save mysql2
 <br>
 *In order to use this appliction you must open your terminal and type the following commands..*
 <br>
