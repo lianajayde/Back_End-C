@@ -1,11 +1,14 @@
 ## Back_End C
 ## Details
 E-Commerce is the largest sector of the elctronics industry, Back_End C was built for a e-commerce management to create, update, and delete data in their database.
+<br><br>
+*In order to run this application, you must first install..*<br>
+npm i<br>
+npm i dotenv<br>
+npm i sequelize<br>
+npm install --save mysql2
 <br>
-In order to run this application, you must first install..<br>
-npm i, npm i dotenv, npm i sequelize, and npm install --save mysql2
-<br>
-In order to use this appliction you must open your terminal and type the following commands..
+*In order to use this appliction you must open your terminal and type the following commands..*
 <br>
 -mysql -u root -p<br>
 -source db/schema.sql<br>
@@ -18,11 +21,10 @@ Once complete, open Insomnia for GET, PUT, POST and DELETE commands.
 *use* http://localhost:3001/api
 <br>
 ## Technologies Used..
-<br>
 -JavaScript<br>
 -SQL2<br>
 -Express.js<br>
--Dotenv
+-Dotenv<br>
 <br>
 Helpful websites used..<br>
 dev.to<br>
