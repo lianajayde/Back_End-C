@@ -15,7 +15,7 @@ E-Commerce is the largest sector of the electronics industry, Back_End C was bui
 -source db/schema.sql<br>
 -quit (bye)<br>
 -npm run seed<br>
--npm start
+-npm start<br>
 <br>
 Once complete, open Insomnia for GET, PUT, POST and DELETE commands.
 <br>
