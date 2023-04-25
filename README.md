@@ -11,7 +11,6 @@ E-Commerce is the largest sector of the electronics industry, Back_End C was bui
 <br>
 *In order to use this appliction you must open your terminal and type the following commands..*
 <br>
-<<<<<<< HEAD
 npm i, npm install dotenv --save, npm i sequelize, and npm install --save mysql2
 <br>
 *In order to use this appliction you must open your terminal and type the following commands..
@@ -56,4 +55,3 @@ https://medium.com/@shannen.ye/setting-up-a-database-and-seed-file-7e73fe2a9fe6
 ## Demo
 <br>
 Demo video and screenshots here
->>>>>>> d3e44cda174650ad2d7b73ef34b8f32daf152537
