@@ -7,7 +7,7 @@ E-Commerce is the largest sector of the elctronics industry, Back_End C was buil
 
 *In order to run this application, you must first install..
 <br>
-npm i, npm i dotenv, npm i sequelize, and npm install --save mysql2
+npm i, npm install dotenv --save, npm i sequelize, and npm install --save mysql2
 <br>
 *In order to use this appliction you must open your terminal and type the following commands..
 <br>
@@ -20,3 +20,7 @@ npm i, npm i dotenv, npm i sequelize, and npm install --save mysql2
 Once complete, open Insomnia for GET, PUT, POST and DELETE commands.
 <br>
 use http://localhost:3001/api
+
+<br>
+Helpful websites used..<br>
+https://www.npmjs.com/package/dotenv 
