@@ -5,15 +5,10 @@ E-Commerce is the largest sector of the electronics industry, Back_End C was bui
 ## Installation Instructions
 *In order to run this application, you must first install these through your terminal..*<br>
 -npm i<br>
--npm i dotenv<br>
+-npm install dotenv --save<br>
 -npm i sequelize<br>
 -npm install --save mysql2<br>
-<br>
-*In order to use this appliction you must open your terminal and type the following commands..*
-<br>
-npm i, npm install dotenv --save, npm i sequelize, and npm install --save mysql2
-<br>
-*In order to use this appliction you must open your terminal and type the following commands..
+*In order to USE this application you must open your terminal and type the following commands..
 <br>
 1- mysql -u root -p
 2- source db/schema.sql
