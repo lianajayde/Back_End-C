@@ -28,29 +28,6 @@ use http://localhost:3001/api
 <br>
 Helpful websites used..<br>
 https://www.npmjs.com/package/dotenv 
-=======
--mysql -u root -p<br>
--source db/schema.sql<br>
--quit (bye)<br>
--npm run seed<br>
--npm start<br>
-<br>
-Once complete, open Insomnia for GET, PUT, POST and DELETE commands.
-<br>
-*use* http://localhost:3001/api
-<br>
-## Technologies Used..
--JavaScript<br>
--SQL2<br>
--Express.js<br>
--Dotenv<br>
-<br>
-Helpful websites used..<br>
-dev.to<br>
-https://expressjs.com/en/guide/routing.html<br>
-https://nextjs.org/docs/api-routes/introduction<br>
-https://medium.com/@shannen.ye/setting-up-a-database-and-seed-file-7e73fe2a9fe6
-<br>
 
 ## Demo
 <br>
