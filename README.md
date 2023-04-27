@@ -14,7 +14,7 @@ E-Commerce is the largest sector of the electronics industry, Back_End C was bui
 2- source db/schema.sql<br>
 3- quit (bye)<br>
 4- npm run seed<br>
-5- npm start
+5- node server.js
 <br>
 Once complete, open Insomnia for GET, PUT, POST and DELETE commands.
 <br>
@@ -26,4 +26,4 @@ https://www.npmjs.com/package/dotenv
 
 ## Demo
 <br>
-Demo video and screenshots here
+<a href="https://www.youtube.com/watch?v=SUGzq8XMLNM">Demo Video Here</a>
